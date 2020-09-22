@@ -3,8 +3,8 @@
 <p allign = "center">Hey! I'm Julia. I'm a third year Computer Science Student at University College Dublin and well, an aspiring software engineer👩‍💻😄. I'm currently seeking internship opportunities for March 2021.</p>
 
 ## Things I'm currently working on
-- Diving deep 🤿 into my accumulated collection of online courses
-- Cherishing being able to sleep in 😴💤 before college starts again...
+- Diving deep 🤿 into my college coursework
+- Trying to wake up on time for my zoom lectures 😴💤 
 
 ## Technologies I'm interested in / want to learn more about
 - Blockchain 📦🔗
